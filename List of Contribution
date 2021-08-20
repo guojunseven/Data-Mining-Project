@@ -1,0 +1,23 @@
+COVID19 Diagnosis Prediction - List of Contribution 
+
+ 
+
+Team Members: MaoLiang Liu, Chenlu Huang, Jun Guo 
+
+ 
+
+Please see below list of contributions made by each of the team members. Because we often work together and sometimes expand on works initiated by others, there are overlapping sections among the members. Lastly, we would just like to note that all members were able to attend all scheduled meetings and actively engaged in the online and offline group discussions. The responsibilities are fairly distributed among the members.  
+
+ 
+
+ 
+
+MaoLiang Liu: data exploration, data understanding, sampling methods for imbalanced data  
+
+ 
+
+Chenlu Huang: data understanding, data preprocessing, feature selection, tuning the performance metrics for imbalanced data, selecting the sampling methods for imbalanced data 
+
+ 
+
+Jun Guo: data understanding, data preprocessing, imbalanced sampling, modeling, evaluation 
